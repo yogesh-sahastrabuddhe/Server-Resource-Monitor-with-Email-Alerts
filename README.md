@@ -11,7 +11,6 @@
 - [Usage](#usage)
 - [Prerequisites](#custom-1758209867853)
 - [Code overview](#custom-1758209968930)
-- [Troubleshooting](#custom-1758210104272)
 - [Troubleshooting](#custom-1758212863207)
 
 ## ℹ️ Project Information
